@@ -135,9 +135,10 @@ nav {
   /* Menu en mobile*/
 
   .mobile-menu {
-    padding: 24px;
+    background-color: var(--white);
     position: absolute;
     top: 60px;
+    padding: 24px;
 
   }
   .mobile-menu a {
@@ -169,8 +170,9 @@ nav {
   /*Aside (product detail y carrito*/
 
   .product-detail {
+    background-color: var(--white);
     width: 360px;
-    padding: 24px;
+    padding: 0 24px;
     box-sizing: border-box;
     position: absolute;
     right: 0;
